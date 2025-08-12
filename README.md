@@ -8,9 +8,13 @@ This project processes raw sales records, cleans them, analyzes profitability, a
 ##  Project Structure
 
 ├── coffee_shop_analysis_complete.py # End-to-end analysis pipeline
+
 ├── clean_data.py # Standalone cleaning script
+
 ├── coffee_shop_sales_cleaned.csv # Example cleaned dataset
+
 ├── coffee_shop_analysis_report.txt # Example analysis report
+
 ├── requirements.txt # Python dependencies
 
 
