@@ -1,0 +1,161 @@
+COFFEE SHOP SALES ANALYSIS
+COMPREHENSIVE REPORT
+==================================================
+
+Report Generated: 2025-08-13 02:30:05
+Analysis Period: 2023-01-01 to 2023-06-30
+
+EXECUTIVE SUMMARY
+--------------------
+Total Revenue: $658,332.83
+Total Estimated Profit: $408,637.51
+Overall Profit Margin: 62.1%
+Total Transactions: 147,584
+Analysis Period: 181 days
+Average Daily Revenue: $3,637.20
+
+FINANCIAL PERFORMANCE
+-------------------------
+Revenue Metrics:
+  • Total Revenue: $658,332.83
+  • Average Transaction Value: $4.46
+  • Total Transactions: 147,584
+
+Profitability Metrics:
+  • Total Estimated Profit: $408,637.51
+  • Overall Profit Margin: 62.1%
+  • Average Transaction Profit: $2.77
+
+PRODUCT ANALYSIS
+--------------------
+Total Products: 73
+Profitable Products: 73
+
+Top 10 Most Profitable Products:
+ 1. Sustainably Grown Organic Lg                                 $  12,691 (60.0%)
+ 2. Dark chocolate Lg                                            $  12,604 (60.0%)
+ 3. Latte Rg                                                     $  12,423 (65.0%)
+ 4. Morning Sunrise Chai Lg                                      $  12,169 (70.0%)
+ 5. Cappuccino Lg                                                $  11,467 (65.0%)
+ 6. Latte                                                        $  11,217 (65.0%)
+ 7. Jamaican Coffee River Lg                                     $  10,713 (65.0%)
+ 8. Cappuccino                                                   $  10,398 (65.0%)
+ 9. Brazilian Lg                                                 $   9,821 (65.0%)
+10. Sustainably Grown Organic Rg                                 $   9,740 (60.0%)
+
+Lowest Performing Products:
+ 1. Guatemalan Sustainably Grown                                 $     670 (50.0%)
+ 2. Spicy Eye Opener Chai                                        $     668 (50.0%)
+ 3. Earl Grey                                                    $     635 (50.0%)
+ 4. Dark chocolate                                               $     378 (50.0%)
+ 5. Organic Decaf Blend                                          $      42 (50.0%)
+
+CATEGORY ANALYSIS
+--------------------
+Performance by Category:
+• Coffee:
+  Revenue: $269,952.45 (41.0% of total)
+  Profit: $175,469.09 (Margin: 65.0%)
+  Products: 21.0 | Transactions: 58,416.0
+
+• Tea:
+  Revenue: $196,405.95 (29.8% of total)
+  Profit: $137,484.16 (Margin: 70.0%)
+  Products: 16.0 | Transactions: 45,449.0
+
+• Bakery:
+  Revenue: $82,315.64 (12.5% of total)
+  Profit: $32,926.26 (Margin: 40.0%)
+  Products: 11.0 | Transactions: 22,796.0
+
+• Drinking Chocolate:
+  Revenue: $72,416.00 (11.0% of total)
+  Profit: $43,449.60 (Margin: 60.0%)
+  Products: 4.0 | Transactions: 11,468.0
+
+• Loose Tea:
+  Revenue: $11,213.60 (1.7% of total)
+  Profit: $5,606.80 (Margin: 50.0%)
+  Products: 8.0 | Transactions: 1,210.0
+
+• Flavours:
+  Revenue: $8,408.80 (1.3% of total)
+  Profit: $6,306.60 (Margin: 75.0%)
+  Products: 4.0 | Transactions: 6,790.0
+
+• Branded:
+  Revenue: $7,076.00 (1.1% of total)
+  Profit: $2,122.80 (Margin: 30.0%)
+  Products: 2.0 | Transactions: 510.0
+
+• Coffee beans:
+  Revenue: $6,136.75 (0.9% of total)
+  Profit: $3,068.38 (Margin: 50.0%)
+  Products: 4.0 | Transactions: 458.0
+
+• Packaged Chocolate:
+  Revenue: $4,407.64 (0.7% of total)
+  Profit: $2,203.82 (Margin: 50.0%)
+  Products: 3.0 | Transactions: 487.0
+
+STORE ANALYSIS
+---------------
+Performance by Store:
+• Astoria:
+  Revenue: $220,580.96
+  Profit: $137,333.66 (Margin: 62.3%)
+  Transactions: 50,118.0 | Avg Value: $4.40
+  Products Sold: 71.0 unique items
+
+• Hell's Kitchen:
+  Revenue: $219,666.07
+  Profit: $136,541.82 (Margin: 62.2%)
+  Transactions: 50,176.0 | Avg Value: $4.38
+  Products Sold: 72.0 unique items
+
+• Lower Manhattan:
+  Revenue: $218,085.80
+  Profit: $134,762.03 (Margin: 61.8%)
+  Transactions: 47,290.0 | Avg Value: $4.61
+  Products Sold: 73.0 unique items
+
+TEMPORAL ANALYSIS
+------------------
+Peak Performance:
+  • Best Month: Month 6
+  • Best Day: Thursday
+  • Peak Hour: 6:00
+
+Monthly Performance:
+  January 2023: $  76,001 revenue, 62.1% margin
+  February 2023: $  72,274 revenue, 62.1% margin
+  March 2023: $  93,673 revenue, 62.0% margin
+  April 2023: $ 112,144 revenue, 62.0% margin
+  May 2023: $ 147,994 revenue, 62.1% margin
+  June 2023: $ 156,245 revenue, 62.1% margin
+
+Daily Patterns (Average Performance):
+  Monday    : $     4 avg revenue, 21,425.0 transactions
+  Tuesday   : $     4 avg revenue, 20,969.0 transactions
+  Wednesday : $     4 avg revenue, 21,072.0 transactions
+  Thursday  : $     4 avg revenue, 21,467.0 transactions
+  Friday    : $     4 avg revenue, 21,484.0 transactions
+  Saturday  : $     4 avg revenue, 20,287.0 transactions
+  Sunday    : $     4 avg revenue, 20,880.0 transactions
+
+KEY INSIGHTS
+---------------
+1. Strong profitability with >50% profit margin
+2. Top 3 profit generators: Sustainably Grown Organic Lg, Dark chocolate Lg, Latte Rg
+3. Most profitable category: Coffee
+4. Best performing store: Astoria
+5. Peak performance: Month 6, Thursdays, 6:00
+
+DATA QUALITY SUMMARY
+-----------------------
+Dataset Shape: 147,584 rows × 22 columns
+Date Range: 2023-01-01 to 2023-06-30
+Unique Products: 73
+Unique Stores: 3
+Data Completeness: Good (post-cleaning)
+Cost Estimation: Based on industry-standard ratios by product category
